@@ -1,0 +1,15 @@
+# Environments & Cache
+venv/
+__pycache__/
+.pytest_cache/
+
+# API Keys & Secrets
+.env
+
+# Local Databases & Heavy Data
+vector_db/
+flight_cache.json
+data/*.pdf
+
+# Streamlit Local Configs
+.streamlit/

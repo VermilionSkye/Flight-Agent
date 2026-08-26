@@ -1,0 +1,16 @@
+# Agent Orchestration & LLM
+langgraph
+langchain
+langchain-google-genai
+
+# RAG & Vector DB
+chromadb
+langchain-chroma
+langchain-community
+langchain-huggingface
+sentence-transformers
+pypdf
+
+# Tools & Utilities
+google-search-results
+python-dotenv
